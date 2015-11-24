@@ -1,5 +1,11 @@
 [![Build Status](https://secure.travis-ci.org/emerleite/node-gravatar.png)](http://travis-ci.org/emerleite/node-gravatar)
 
+Gravatar redirected to cn.gravatar
+=======================================
+All the credit should go to Emerson Macedo, the original author, I only editted the url
+to match of cn.gravatar to better fit my Chinese audience.
+
+
 Node.js Gravatar library
 ========================
 A library to generate Gravatar URLs in Node.js
